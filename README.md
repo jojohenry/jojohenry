@@ -1,8 +1,8 @@
 ### Welcome to my GitHub page 👋
-👋 Hi, I’m Jodiann
-👀 I’m a DevOps Engineer Trainee
-🌱 I’m currently learning AWS, Git, Terraform, Kubernetes, Docker, and Python
-📫 You can reach me at jshenry91@yahoo.com
+👋 Hi, I’m Jodiann  
+👀 I’m a DevOps Engineer Trainee  
+🌱 I’m currently learning AWS, Git, Terraform, Kubernetes, Docker, and Python  
+📫 You can reach me at jshenry91@yahoo.com  
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
