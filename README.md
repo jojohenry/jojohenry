@@ -5,13 +5,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
-
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Jodiann%20Henry) -->
-
-[![Linkedin Badge](https://img.shields.io/badge/-Jodiann%20Henry-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jodiann-h/)](https://www.linkedin.com/in/jodiann-h/)
-[![Medium Badge](https://img.shields.io/badge/Jodiann%20Henry-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@jhenry22)](https://www.medium.com/@jhenry22)
-[![Yahoo Badge](https://img.shields.io/badge/-jshenry91@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:jshenry91@yahoo.com)](mailto:jshenry91@yahoo.com)
 
 ## ⚡ Technologies
 
