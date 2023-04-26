@@ -1,6 +1,5 @@
 ### Welcome to my GitHub page 👋
 👋 Hi, I’m Jodiann  
-👀 I’m a DevOps Engineer Trainee  
 🌱 I have learned AWS, Git, Terraform, Kubernetes, Docker, and Python  
 📫 You can reach me at jshenry91@yahoo.com  
 
